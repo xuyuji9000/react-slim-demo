@@ -7,6 +7,8 @@ This is a react slim demo
 
 `composer install` install slim dependency
 
+`vendor/bin/phpunit` phpunit test
+
 `php -S api.myurl` start api server
 
 ### react
